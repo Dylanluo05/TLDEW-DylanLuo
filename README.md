@@ -30,6 +30,27 @@ Beneficial and Harmful Effects:
 
 <b> Video #2: </b>
 
-<b> College Board Topic 5.2 Digital Divide Notes: </b>
+Learning Objective:
+* IOC-1.B – Explain how a computing innovation can have an impact beyond its intended purpose.
+
+Essential Knowledge:
+* IOC-1.B.1 – Computer innovations can be used in ways that their creators had not originally intended: 
+  * The World Wide Web was originally intended only for rapid and easy exchange of information within the scientific community. However, it its users now include a large portion of the general population.
+  * Targeted advertising is used to help businesses, but it can be misued at both individual and aggregate levels.
+  * Machine learning and data mining have enabled innovation in medicine, business, and science, but information  discovered in this way has also been used to discriminate against groups of individuals.
+* IOC-1.B.2 – Some of the ways computing innovations can be used may have a harmful impact on society, the economy, or culture.
+* IOC-1.B.3 – Responsible programmers try to consider the unintended ways their computing innovations can be used and the potential beneficial and harmful effects of these new uses.
+* IOC-1.B.4 – It is not possible for a programmer to consider all the ways a computing innovation can be used.
+* IOC-1.B.6 – Rapid sharing of a pogram or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer.
+
+Beneficial and Harmful Effects:
+* Microtransactions:
+  * "Free" Games/Apps.
+  * Cosmetics/Pay-To-Win/Paywall to functionality.
+* The Internet – Originally Intended For Scientists:
+  * Sleep deprivation, depression, anxiety, and impulsivity.
+  * Dopamine feedback loops.
+
+### College Board Topic 5.2 Digital Divide Notes: ###
 
 Learning Objective
