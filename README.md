@@ -5,7 +5,7 @@
 ## TPT Notes:
 ### College Board Topic 5.1 Beneficial and Harmful Effects Notes: ##
 
-<b> Video #1: </b>
+#### Video #1: ####
 
 Learning Objective:
 * IOC-1.A – Explain how an effect of a computing innovation can be both beneficial and harmful.
@@ -26,9 +26,9 @@ Beneficial and Harmful Effects:
   * Harmful - Broken TV's as well as injuries.
 * Dopamine is what allows us to feel pleasure and happiness. It is produce when we engage in activities that allow us to feel enjoyed, interested, passionate, and happy.  
 
-<img src="https://user-images.githubusercontent.com/9831592/158037451-d4c41288-f1c0-48f0-995b-c55e868a4e31.png" width="230" height="240">
+<img src="https://user-images.githubusercontent.com/9831592/158037451-d4c41288-f1c0-48f0-995b-c55e868a4e31.png" width="350" height="370">
 
-<b> Video #2: </b>
+#### Video #2: ####
 
 Learning Objective:
 * IOC-1.B – Explain how a computing innovation can have an impact beyond its intended purpose.
@@ -53,4 +53,31 @@ Beneficial and Harmful Effects:
 
 ### College Board Topic 5.2 Digital Divide Notes: ###
 
-Learning Objective
+#### Video #1: ####
+
+Learning Objective:
+* IOC-1.C – Describe issues that contribute to the digital divide.
+
+Essential Knowledge:
+* IOC-1.C.1 – Internet access varies between socioeconomic, geographic, and demographic characteristics, as well as between countries.
+* IOC-1.C.2 – The "Digital Divide" refers to differing access to computing devices and the Internet, based on socioeconomic, geographic, or demographic characteristics.
+* IOC-1.C.3 – The Digital Divide can affect both individuals and groups.
+* IOC-1.C.4 – The Digital Divide raises issues of equity, access, and influence, both locally and globally.
+* IOC-1.C.5 – The Digital Divide is affected by the actions of individuals, organizations, and governments.
+
+Digital Divide:
+* Socioeconomic.
+* Geographic.
+* Demographics include, but are not isolated to:
+  * Age.
+  * Religion.
+* Countries.
+* In Some Countries:
+  * Computers are not that available/common in rural areas.
+  * Only a small number of websites are available.
+  * The Internet is used to protect and advocate the government.
+  * There is a high level of surveillance on the Internet to protect the government.
+
+<img src="https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/digitaldivide2.png" width="350" height="370">
+
+
