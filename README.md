@@ -1,4 +1,6 @@
 ## Data Structures Project: ##
+### Replit Link: ###
+[Replit Python Menu](https://replit.com/@Dylanluo05/Python-Menu#main.py)
 ### Week 0: ###
 * Python Menu Challenge:
  1. Build your own menu and sub-menu
