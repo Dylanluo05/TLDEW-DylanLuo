@@ -53,6 +53,19 @@ Beneficial and Harmful Effects:
   * Sleep deprivation, depression, anxiety, and impulsivity.
   * Dopamine feedback loops.
 
+GitHub Pages Action:
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+  * Beneficial:
+    * Resources are easily accessible.
+    * Increased efficiency.
+    * Improved communications accross long distances.
+  * Harmful:
+    * Some programs can have harmful effects on your computer.
+    * There are some inappropriate or dangerous websites on the Internet.
+    * Computing may not always have the most credible or best resources.
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+  * Dopamine is a real hormone, as it has been scientifically thoroughly researched. I believe that working hard and as a result feeling productive allows my body to produce dopamine, which positively impacts my personal study and Academic success.
+
 ### College Board Topic 5.2 Digital Divide Notes: ###
 
 #### Video #1: ####
@@ -82,4 +95,12 @@ Digital Divide:
 
 <img src="https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/digitaldivide2.png" width="350" height="370">
 
+
+GitHub Pages Action – Digital Empowerment:
+1. How does someone empower themself in a digital world?
+  * One empower oneself in a digital world by choosing to use positive resources or programs in the digital world.
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte High School.
+  * A person that is empowered can start a social media page, in which they create encourgaing or positiving posts to help motivate those who are not as empowered. At Del Norte High School, an option I have is to start a club that helps lift up and empower those that are in need.
+3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+  * From my perspective, I do not really think there is anything in my community that is blocking digital empowerment. I believe that at Del Norte, there are not very many barriers that are blocking digital empowerment, as I have noticed that there are plenty of social media pages related to Del Norte High School clubs that promote digital empowerment as well as real life empoerment. Elsewhere in poorer communities, there may be some barriers to digital empowerment, because digital technology is not as accessible.
 
