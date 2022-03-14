@@ -2,6 +2,7 @@
 ### Replit Link: ###
 [Replit Python Menu](https://replit.com/@Dylanluo05/Python-Menu#main.py)
 ### Week 0: ###
+[Week 0 Plans, Team, Jobs Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/1)
 * Python Menu Challenge:
  1. Build your own menu and sub-menu
  2. Add swap and keypad from Tri 2 Week 10, to your project and menu.
@@ -9,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/88572244/156895395-6bbf72be-605f-4bca-a376-b9ee985b5786.png" width="150" height="240">
 
- 4. Add two items below to get ready for animations and interacting with terminal codes
+ 4. Add two items below to get ready for animations and interacting with terminal codes 
  
 * Key Learning Code Snippets:
 
