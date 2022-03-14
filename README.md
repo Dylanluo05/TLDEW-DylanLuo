@@ -1,7 +1,19 @@
-## Data Structures Project:
+## Data Structures Project: ##
+### Week 0: ###
+* Python Menu Challenge:
+ 1. Build your own menu and sub-menu
+ 2. Add swap and keypad from Tri 2 Week 10, to your project and menu.
+ 3. For additional challenge and review, build a Christmas tree with *s or a pattern of your choice
 
-## Create Task Project:
-A
+<img src="https://user-images.githubusercontent.com/88572244/156895395-6bbf72be-605f-4bca-a376-b9ee985b5786.png" width="150" height="240">
+
+ 4. Add two items below to get ready for animations and interacting with terminal codes
+ 
+* Key Learning Code Snippets:
+
+
+## Create Task Project: ##
+* Intended Create Task Project:
 
 
 ## TPT Notes:
