@@ -78,3 +78,4 @@ def buildMenu(banner, options):
 
 ## TPT Notes:
 [TPT 5.1 and 5.2 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.1-and-5.2-Notes)
+[TPT 5.3 and 5.4 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.3-and-5.4-Notes)
