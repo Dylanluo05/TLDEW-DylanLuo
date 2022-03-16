@@ -77,5 +77,5 @@ def buildMenu(banner, options):
      * Ex: Choose your preferred weather, types of foods, hobby → Recommended place shows up with details(image).
 
 ## TPT Notes:
-1. [TPT 5.1 and 5.2 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.1-and-5.2-Notes)
-2. [TPT 5.3 and 5.4 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.3-and-5.4-Notes)
+<b> 1. [TPT 5.1 and 5.2 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.1-and-5.2-Notes) </b>
+<b> 2. [TPT 5.3 and 5.4 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.3-and-5.4-Notes) </b>
