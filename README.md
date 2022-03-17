@@ -1,7 +1,7 @@
 ## Data Structures Project:
 ### Jekyll: ###
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
-### Replit Link: ###
+### Replit Embed: ###
 
 <iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@Dylanluo05/Python-Menu-2?v=1?embed=true">
 
