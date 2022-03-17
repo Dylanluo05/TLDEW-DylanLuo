@@ -16,6 +16,7 @@
  
 * Key Learning Code Snippets:
 
+```
 import swap
 import christmastree
 import keypad
@@ -67,7 +68,7 @@ def buildMenu(banner, options):
     except UnboundLocalError:
         print(f"Invalid Choice: {choice}")
     buildMenu(banner, options)
-
+```
 
 
 ## Create Task Project: ##
