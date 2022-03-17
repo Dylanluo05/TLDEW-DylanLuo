@@ -3,7 +3,7 @@
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
 ### Replit Link: ###
 
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@Dylanluo05/Python-Menu#keypad.py?embed=true">
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@Dylanluo05/Python-Menu-2?v=1?embed=true">
 
 ### Week 0: ###
 [Week 0 Plans, Team, Jobs Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/1)
