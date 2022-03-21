@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-{% include nav.html %}
+{% include Navbar.html %}
 
 {% include_relative README.md %}
