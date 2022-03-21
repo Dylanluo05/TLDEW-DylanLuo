@@ -11,7 +11,3 @@
 ### Week 1: ###
 [Week 1 List and Loops Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/2)
 
-
-## TPT Notes:
-1. [TPT 5.1 and 5.2 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.1-and-5.2-Notes) 
-2. [TPT 5.3 and 5.4 Notes](https://github.com/Dylanluo05/TLDEW-DylanLuo/wiki/TPT-5.3-and-5.4-Notes) 
