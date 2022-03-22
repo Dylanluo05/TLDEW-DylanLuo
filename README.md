@@ -2,7 +2,7 @@
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
 
 # Replit Embed #
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@Dylanluo05/Python-Menu-2?lite=true#src/menuy.py"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@Dylanluo05/AP-Computer-Science-Priciples-Trimester-3-Replit?lite=true#src/menuy.py"></iframe>
   
 # Review Tickets #
 ### Week 0: ###
