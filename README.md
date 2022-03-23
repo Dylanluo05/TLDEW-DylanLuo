@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Jekyll #
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
 
