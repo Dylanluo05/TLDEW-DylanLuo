@@ -13,3 +13,6 @@
 ### Week 1: ###
 [Week 1 List and Loops Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/2)
 
+### Week 2: ###
+[Week 2 Classy Functions Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/4)
+
