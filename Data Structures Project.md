@@ -1,7 +1,8 @@
 # Data Structures Project #
 ### Week 0 Plans, Team, and Jobs: ###
 [Week 0 Plans, Team, Jobs Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/1)
-* Key Learning Code Snippets:
+
+<b>Key Learning Code Snippets:</b>
 
 Swap, Keypad Matrix, Christmas Tree, Boat Animations, and The Python Menu:
 ```
@@ -61,7 +62,8 @@ def buildMenu(banner, options):
 
 ### Week 1 Lists and Loops: ###
 [Week 1 Lists and Loops Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/2)
-* Key Learning Code Snippets:
+
+<b>Key Learning Code Snippets:</b>
 
 InfoDB lists and InfoDB loops:
 ```
@@ -130,7 +132,8 @@ def Tester():
 
 ### Week 2 Classy Functions: ###
 [Week 2 Classy Functions Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/4)
-* Key Learning Code Snippets:
+
+<b>Key Learning Code Snippets:</b>
 
 Organized Python Menu and Submenus:
 ```
