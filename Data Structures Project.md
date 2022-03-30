@@ -1,8 +1,9 @@
 # Data Structures Project #
 ### Week 0 Plans, Team, and Jobs: ###
-
+[Week 0 Plans, Team, Jobs Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/1)
 * Key Learning Code Snippets:
 
+Swap, Keypad Matrix, Christmas Tree, Boat Animations, and The Python Menu:
 ```
 import swap
 import christmastree
@@ -62,7 +63,7 @@ def buildMenu(banner, options):
 [Week 1 Lists and Loops Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/2)
 * Key Learning Code Snippets:
 
-Lists and Loops:
+InfoDB lists and InfoDB loops:
 ```
 # given an index this will print InfoDb content
 def print_list(n):
@@ -126,3 +127,84 @@ def Tester():
        A2 = nth
        count += 1
 ```
+
+### Week 2 Classy Functions: ###
+[Week 2 Classy Functions Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/4)
+* Key Learning Code Snippets:
+
+Organized Python Menu and Submenus:
+```
+import Src.Week0.swap as swap
+import Src.Week0.christmastree as christmastree
+import Src.Week0.keypad as keypad
+import Src.Week0.badboat as badboat
+import Src.Week0.goodboat as goodboat
+import Src.Week1.listsandloops as listsandloops
+import Src.Week1.Fibonacci as Fibonacci
+import Src.Week2.factorialclass as factorialclass
+import Src.Week2.mathfunction as mathfunction
+import Src.Week2.palindrome as palindrome
+
+Main_menu = [
+]
+
+Week0_menu = [
+    ["Swap", swap.run],
+    ["Keypad", keypad.run],
+    ["Christmas Tree", christmastree.options],
+    ["1st Boat", badboat.run],
+    ["2nd Boat", goodboat.ship]
+]
+
+Week1_menu = [
+    ["Anime lists and loops", listsandloops.run],
+    ["Fibonacci", Fibonacci.Tester]
+]
+
+Week2_menu = [
+    ["Factorial Class", factorialclass.solve],
+    ["Math Function", mathfunction.prime],
+    ["Palindrome", palindrome.driver]
+]
+```
+
+Factorial and Prime Math Function:
+```
+class Factorial:
+
+    def algorithm(self, FactorialNumber):
+        w = 1
+        for i in range(1, FactorialNumber + 1):
+            w = w * i
+        return w
+
+
+def solve():
+  FactorialNumber = int(input("Enter a number:"))
+  
+  obj = Factorial()
+  w = obj.algorithm(FactorialNumber)
+  print("Factorial is:", w)
+  
+# def __init__(self):
+#      self.Number = [0, 1]
+# def __call__(self, w):
+
+# Function to find a range of primes
+
+def findprimes(min, max):
+        for Number in range(min, max + 1):
+            count = 0
+            for i in range(2, (Number // 2 + 1)):
+                if (Number % i == 0):
+                    count = count + 1
+                    break
+            if (count == 0 and Number != 1):
+                print(" %d" % Number, end='  ')
+    
+def prime():
+    minimum = int(input(" Enter the Minimum Value for Primes: "))
+    maximum = int(input(" Enter the Maximum Value for Primes: "))
+    findprimes(minimum, maximum)
+```
+
