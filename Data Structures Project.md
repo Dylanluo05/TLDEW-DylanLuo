@@ -65,7 +65,7 @@ def buildMenu(banner, options):
 
 <b>Key Learning Code Snippets:</b>
 
-InfoDB lists and InfoDB loops:
+InfoDb lists and InfoDb loops:
 ```
 # given an index this will print InfoDb content
 def print_list(n):
