@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include Navbar.html %}
 
 # Jekyll #
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
