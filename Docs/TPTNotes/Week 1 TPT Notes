@@ -1,3 +1,7 @@
+{% include Navbar.html %}
+
+{% include WeeklyTPTNotesNavigation.html %}
+
 # Week 1 TPT Notes #
 ### College Board Topic 5.3 Computing Bias: ###
 
