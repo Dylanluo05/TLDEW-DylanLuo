@@ -1,8 +1,10 @@
 {% include Navbar.html %}
 
+# College Board TPT Notes #
+
 {% include WeeklyTPTNotesNavigation.html %}
 
-# Week 2 TPT Notes #
+## Week 2 TPT Notes ##
 ### College Board Topic 5.5 Legal and Ethical Concerns: ###
 
 #### Video #1: ####
