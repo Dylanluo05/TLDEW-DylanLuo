@@ -1,8 +1,10 @@
 {% include Navbar.html %}
 
+# College Board TPT Notes #
+
 {% include WeeklyTPTNotesNavigation.html %}
 
-# Week 1 TPT Notes #
+## Week 1 TPT Notes ##
 ### College Board Topic 5.3 Computing Bias: ###
 
 #### Video #1: ####
