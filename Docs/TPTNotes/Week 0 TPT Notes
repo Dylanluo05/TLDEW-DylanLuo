@@ -1,8 +1,10 @@
 {% include Navbar.html %}
 
+# College Board TPT Notes #
+
 {% include WeeklyTPTNotesNavigation.html %}
 
-# Week 0 TPT Notes #
+## Week 0 TPT Notes ##
 ### College Board Topic 5.1 Beneficial and Harmful Effects Notes: ###
 
 #### Video #1: ####
