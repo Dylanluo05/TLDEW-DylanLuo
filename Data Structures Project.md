@@ -1,3 +1,5 @@
+{% include Navbar.html %}
+
 # Data Structures Project #
 ### Week 0 Plans, Team, and Jobs: ###
 [Week 0 Plans, Team, Jobs Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/1)
