@@ -15,6 +15,7 @@
 # Two Code Snippets:
 Code Snippet #1:
 
+```
 function loadPreviousQuestion() {
             currentQuestion--;
             score.pop();
@@ -35,9 +36,11 @@ function loadPreviousQuestion() {
         nextButton.addEventListener('click', loadNextQuestion);
         previousButton.addEventListener('click',loadPreviousQuestion);
         result.addEventListener('click',restartQuiz);
+```
 
 Code Snippet #2:
 
+```
    let currentQuestion = 0;
         let score = [];
         let selectedAnswersData = [];
@@ -68,3 +71,4 @@ Code Snippet #2:
             option2.innerHTML = `${question.answer2}`
             option3.innerHTML = `${question.answer3}`
         }
+```
