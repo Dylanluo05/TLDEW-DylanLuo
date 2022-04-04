@@ -19,4 +19,7 @@ def options():
     p = input("What character do you want the tree to be made out of?\n")
     tree(n, p)
   except:
-    print("bruh it has to be a number :/")
+    print("Not a number.")
+
+if __name__ == "__main__":
+      options()
