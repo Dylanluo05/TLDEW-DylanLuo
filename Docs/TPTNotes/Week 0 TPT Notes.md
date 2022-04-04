@@ -28,8 +28,6 @@ Beneficial and Harmful Effects:
   * Harmful - Broken TVs as well as injuries.
 * Dopamine is what allows us to feel pleasure and happiness. It is produced when we engage in activities that allow us to feel enjoyed, interested, passionate, and happy.  
 
-<img src="https://user-images.githubusercontent.com/9831592/158037451-d4c41288-f1c0-48f0-995b-c55e868a4e31.png" width="350" height="370">
-
 #### Video #2: ####
 
 Learning Objective:
@@ -66,6 +64,8 @@ GitHub Pages Actions:
 2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
   * Dopamine is a real hormone, as it has been scientifically thoroughly researched. I believe that working hard and as a result feeling productive allows my body to produce dopamine, which positively impacts my personal study and Academic success.
 
+<img src="https://user-images.githubusercontent.com/9831592/158037451-d4c41288-f1c0-48f0-995b-c55e868a4e31.png" width="500" height="370">
+
 ### College Board Topic 5.2 Digital Divide Notes: ###
 
 #### Video #1: ####
@@ -101,4 +101,4 @@ GitHub Pages Actions – Digital Empowerment:
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
   * From my perspective, I do not really think there is anything in my community that is blocking digital empowerment. I believe that at Del Norte, there are not very many barriers that are blocking digital empowerment, as I have noticed that there are plenty of social media pages related to Del Norte High School clubs that promote digital empowerment as well as real-life empowerment. Elsewhere in poorer communities, there may be some barriers to digital empowerment, because digital technology is not as accessible.
 
-<img src="https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/digitaldivide2.png" width="350" height="370">
+<img src="https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/digitaldivide2.png" width="500" height="370">
