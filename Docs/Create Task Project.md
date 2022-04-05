@@ -1,8 +1,8 @@
 {% include Navbar.html %}
 
 # Create Task Project #
->  The Travel Recommendation Feature is essentially a type of Personality Quiz. Users will take a quiz that asks them questions about their personalities and ideal vacations. At the end, the quiz result will recommend users travel/vacation ideas that suit their personalities.
-> >  Ex: Choose your preferred weather, types of foods, hobby → Recommended place shows up with details(image).
+### Project Description: ###
+
 * #### Program Purpose: Create a page to give travel/vacation recommendations based on user selections and inputs.
 * #### Input: The user can select quiz responses. 
 * #### Lists: The quiz choices will be stored in ordered sequences of elements.
