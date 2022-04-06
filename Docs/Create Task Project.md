@@ -13,7 +13,7 @@
 * #### Output: After creating their to-do list(s) and outlines for their goals and aspirations, users will be to view all of the elements that they had made with ease, since there will be labels that will help them navigate through the website to view their to-do lists and plans for their dreams.
 * #### Sequencing: Sequencing will be primarily be shown in the Python code and CRUD programming system.
 
-##TTwo Program Code Snippets: ##
+## Two Program Code Snippets: ##
 Code Snippet #1:
 
 ```
