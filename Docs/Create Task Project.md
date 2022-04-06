@@ -1,7 +1,7 @@
 {% include Navbar.html %}
 
 # Create Task Project #
-### Project Description: ###
+## Project Description: ##
 Achievement Progression Journey. For this year's College Board Create Task Project, I am planning on progamming an application that helps students, particularly high school students, with planning out their school life and managing their time in order to have effective and useful learning, as well as to become successful students.
 
 * #### Program Purpose: Create an application that helps students manage their time by assiting them in having adequete and sustainable productivity.
@@ -13,7 +13,7 @@ Achievement Progression Journey. For this year's College Board Create Task Proje
 * #### Output: After creating their to-do list(s) and outlines for their goals and aspirations, users will be to view all of the elements that they had made with ease, since there will be labels that will help them navigate through the website to view their to-do lists and plans for their dreams.
 * #### Sequencing: Sequencing will be primarily be shown in the Python code and CRUD programming system.
 
-# Two Code Snippets:
+##TTwo Program Code Snippets: ##
 Code Snippet #1:
 
 ```
@@ -25,3 +25,5 @@ Code Snippet #2:
 ```
 Insert Programming Here.
 ```
+
+## The Create Task Project Written Responses: ##
