@@ -2,7 +2,7 @@
 
 # Create Task Project #
 ## Project Description: ##
-Achievement Progression Journey. For this year's College Board Create Task Project, I am planning on progamming an application that helps students, particularly high school students, with planning out their school life and managing their time in order to have effective and useful learning, as well as to become successful students.
+**Achievement Progression Journey.** For this year's College Board Create Task Project, I am planning on progamming an application that helps students, particularly high school students, with planning out their school life and managing their time in order to have effective and useful learning, as well as to become successful students.
 
 * #### Program Purpose: Create an application that helps students manage their time by assiting them in having adequete and sustainable productivity.
 * #### Input: The user can create a to-do list, in which they can list out their activities within time frams as well as by levels of priority and importance. 
