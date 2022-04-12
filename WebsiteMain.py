@@ -22,9 +22,9 @@ def walruses():
     return render_template("walruses.html")
 
 
-@app.route('/hawkers/')
-def hawkers():
-    return render_template("hawkers.html")
+@app.route('/AchievementJourney/')
+def AchievementJourney():
+    return render_template("AchievementJourney.html")
 
 #test
 
