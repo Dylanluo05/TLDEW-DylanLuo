@@ -399,6 +399,10 @@
         }
     }
 
+    #UsedInput {
+        display: none;
+    }
+
     .btn {
         line-height: 50px;
         height: 50px;
@@ -499,10 +503,10 @@
 <body>
 
 <div class="topnav">
-    <a input type="button" onClick="document.getElementById('AJBackground1').scrollIntoView();">Home</a>
-    <a input type="button" onClick="document.getElementById('AJBackground2').scrollIntoView();">To-Do List</a>
-    <a input type="button" onClick="document.getElementById('AJBackground3').scrollIntoView();">Dream Planner</a>
-    <a input type="button" onClick="document.getElementById('').scrollIntoView();">Coming Soon...</a>
+    <a input type="button" onClick="document.getElementById('AJBackground1').scrollIntoView();" style = "color: black;">Home</a>
+    <a input type="button" onClick="document.getElementById('AJBackground2').scrollIntoView();" style = "color: black;">To-Do List</a>
+    <a input type="button" onClick="document.getElementById('AJBackground3').scrollIntoView();" style = "color: black;">Dream Planner</a>
+    <a input type="button" onClick="document.getElementById('').scrollIntoView();" style = "color: black;">Coming Soon...</a>
     <div class="search-container" style = "position:relative; left:7px;">
         <form autocomplete="off" action="/action_page.php">
             <div class="autocomplete" style="width:300px; color:black;">
@@ -560,7 +564,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal1" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -595,7 +599,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal2" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -630,7 +634,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal3" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -665,7 +669,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal4" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -700,7 +704,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal5" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -735,7 +739,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal6" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -770,7 +774,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-two" onclick = "" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
+                            <button type="button" class="btn btn-two" id = "CreateGoal7" style = "position: relative; left: 100px; top: 24px; color: royalblue;">Integrate Goal</button>
                         </div>
                     </form>
                 </div>
@@ -782,6 +786,7 @@
 </body>
 
 <script>
+    /* To-Do List */
     var myNodelist = document.getElementsByTagName("LI");
     var i;
     for (i = 0; i < myNodelist.length; i++) {
@@ -836,6 +841,56 @@
             }
         }
     }
+
+    /* Dream Progression 1 */
+    const CreateGoal1 = document.getElementById('CreateGoal1');
+
+    CreateGoal1.addEventListener('click', () => {
+        CreateGoal1.style.display = 'none';
+    })
+
+    /* Dream Progression 2 */
+    const CreateGoal2 = document.getElementById('CreateGoal2');
+
+    CreateGoal2.addEventListener('click', () => {
+        CreateGoal2.style.display = 'none';
+    })
+
+    /* Dream Progression 3 */
+    const CreateGoal3 = document.getElementById('CreateGoal3');
+
+    CreateGoal3.addEventListener('click', () => {
+        CreateGoal3.style.display = 'none';
+    })
+
+    /* Dream Progression 4 */
+    const CreateGoal4 = document.getElementById('CreateGoal4');
+
+    CreateGoal4.addEventListener('click', () => {
+        CreateGoal4.style.display = 'none';
+    })
+
+    /* Dream Progression 5 */
+    const CreateGoal5 = document.getElementById('CreateGoal5');
+
+    CreateGoal5.addEventListener('click', () => {
+        CreateGoal5.style.display = 'none';
+    })
+
+    /* Dream Progression 6 */
+    const CreateGoal6 = document.getElementById('CreateGoal6');
+
+    CreateGoal6.addEventListener('click', () => {
+        CreateGoal6.style.display = 'none';
+    })
+
+    /* Dream Progression 7 */
+    const CreateGoal7 = document.getElementById('CreateGoal7');
+
+    CreateGoal7.addEventListener('click', () => {
+        CreateGoal7.style.display = 'none';
+    })
+
 </script>
 
 </html>
