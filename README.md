@@ -13,6 +13,7 @@
 | Week 1 | Lists and Loops | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2057997) | [Week 1 List and Loops Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/2) |
 | Week 2 | Classy Functions | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2062669) | [Week 2 Classy Functions Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/4) |
 | Week 3 | Algorithmic Final | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2077246) | [Week 3 Algorithmic Final Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/5) |
+| Week 4 | Accounts and Logins | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2091155) | [Week 4 Accounts and Logins Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/6) |
 
 
 
