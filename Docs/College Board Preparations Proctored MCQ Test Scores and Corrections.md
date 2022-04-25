@@ -1,6 +1,6 @@
 # College Board Preparations Proctored MCQ Test Scores and Corrections #
 
-## Proctored MCQ Finals Test 1 Test Corrections ##
+## Proctored MCQ Finals Test 1 Test Corrections (Score: 43/50) ##
 | Question | Original Answer | Correct Answer | Reasoning |
 | -------- | --------------- | -------------- | --------- |
 | 4 | B | A | The correct answer is <b>A</b>, because a method to create network redundancy is to have multiple paths between any two connected devices. As a result of network redundancy, the network is able to support itself and recover from network failures, which in turn allows it to continue functioning. |
@@ -11,7 +11,7 @@
 | 38 | B | C | The right solution is <b>C</b>, since the metadata includes time and the phone numbers of the two users of a call. Thus, using information provided by the metadata, predictions can be made about future calls and a list of phone numbers called with one certain phone number can be provided. |
 | 47 | A and B | A and C |The accurate responses are <b>A and C</b>. The reason for this is that if devices B and D were to fail, then information sent from device A would not be able to reach device C. Likewise, if devices D and F were to fail, then information sent from device A would not be able to reach device C. |
 
-## Proctored MCQ Finals Test 2 Test Corrections ##
+## Proctored MCQ Finals Test 2 Test Corrections (Score: 43/50) ##
 | Question | Original Answer | Correct Answer | Reasoning |
 | -------- | --------------- | -------------- | --------- |
 | 1 | B | D | The correct answer is <b>D</b>, because a parallel computing solution comprises of a parallel portion and a sequential portion. When increasing the amount of parallel computing, the overall efficiency of the solution is limited by the sequential portion. |
