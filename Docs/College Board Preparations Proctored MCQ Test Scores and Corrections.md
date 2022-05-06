@@ -29,3 +29,13 @@
 | 24 | C | D | The right solution is <b>D</b>, since the algorithm passes the first criteria if the time is during businesses hours, the algorithm passes the second criteria if the gate sensor is activated, and the algorithm passes the third criteria if the gate in the parking garage is not open. This will allow the algorithm to ensure that the gate is only opened for appropriate conditions. |
 | 34 | D | B | The correct answer is <b>B</b>, because the factorial algorithm does not run in a reasonable time. However, a heuristic method can approximate a solution that can run in a reasonable amount of time. |
 | 41 | C | D | The accurate response is <b>D</b>. The reason for this is that public key cryptography involves the encryption of a message with a recipient's public key and the decryption of the same message with the same recipient's private key. |
+
+## Proctored MCQ Finals Test 5 Test Corrections (Score: 44/50) ##
+| Question | Original Answer | Correct Answer | Reasoning |
+| -------- | --------------- | -------------- | --------- |
+| 16 | D | A | The correct answer is <b>A</b>, because both programs display identical values in the same order. Program A sets i to an initial value of 1. The loop prints i then increments i by 1, terminating once i is greater than 10. Program B sets i to an initial value of 0. The lopp increments i by 1 then prints i, terminating once i equals 10. Program A and Program B both print out the list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].  |
+| 18 | D | A | The right solution is <b>A</b>, since public key encryption allows for secure communications through an open medium, in order to prevent unauthorized access. |
+| 36 | D | A | The correct answer is <b>A</b>, because when a user enters a Web address in a browser, file requests (Digital Data) sent to the Web Server are broken into packets for transmission. Upon reaching the user's computer, the packets are then reassembled. |
+| 43 | A | B | The accurate response is <b>B</b>. The reason for this is that the Internet is designed to scale to support an increasing number of users using open (Nonproprietary) and standardized communication protocols, which are able to comfortably connect more computer devices to the computer network. |
+| 45 | B | C | The correct answer is <b>C</b>, because both code segments present the correct average. However, code segment 1 is slightly different in that it performs more arithetic operations than code segment 2. |
+| 48 | A | D | The right solution is <b>D</b>, since a certificate authority's role is to verify the authenticity of keys using digital certificates that certify the ownership of public keys used in secure communications. |
