@@ -1,5 +1,11 @@
 {% include Navbar.html %}
 
+<style>
+  .table, .table td, .table th {
+    border: 1 px solid black;
+  }
+</style>
+
 # Jekyll #
 [Jekyll](https://dylanluo05.github.io/TLDEW-DylanLuo/)
 
@@ -17,5 +23,5 @@
 | Week 5 | College Board Preparations Week 1 | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2094412) | [Week 5 College Board Preparations Week 1 Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/7) |
 | Week 6 | College Board Preparations Week 2 | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2099836) | [Week 6 College Board Preparations Week 2 Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/8) |
 | Week 7 | AP Examinations Week 1 Proctored MCQ Test 5 | [MyConnect Assignment](https://poway.instructure.com/courses/112335/assignments/2103663) | [Week 7 AP Examinations Week 1 Proctored MCQ Test 5 Individual Review Ticket - Dylan Luo](https://github.com/Dylanluo05/TLDEW-DylanLuo/issues/9) |
-
+{: .table}
 
